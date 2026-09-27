@@ -1,5 +1,4 @@
-# CyberLearn 🛡️
-
+# CyberLearn 
 **Learn cybersecurity and Python — one bite-sized lesson at a time.**
 
 CyberLearn is a free, offline, no-sign-in, Duolingo-style learning app for **cybersecurity fundamentals and Python**. It is designed to make security education approachable through short lessons, knowledge checks, progress tracking, and a simple gamified learning path.

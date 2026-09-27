@@ -1,0 +1,4 @@
+# CyberLearn has zero third-party dependencies.
+# It only uses the Python standard library (tkinter, json, dataclasses,
+# pathlib, unittest). This file exists so tools that expect a
+# requirements.txt (and CI templates) have something to point at.

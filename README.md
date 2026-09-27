@@ -5,7 +5,9 @@
 CyberLearn is a free, offline, no-sign-in, Duolingo-style learning app for **cybersecurity fundamentals and Python**. It is designed to make security education approachable through short lessons, knowledge checks, progress tracking, and a simple gamified learning path.
 
 > **100% local. No account. No ads. No telemetry. No network connection required.**
-
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Dependencies](https://img.shields.io/badge/dependencies-standard%20library%20only-brightgreen)
 ---
 
 ## ✨ Features

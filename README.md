@@ -11,41 +11,41 @@ CyberLearn is a free, offline, no-sign-in, Duolingo-style learning app for **cyb
 ![Dependencies](https://img.shields.io/badge/dependencies-standard%20library%20only-brightgreen)
 ---
 
-## ✨ Features
+##  Features
 
-* 📚 **157 bite-sized lessons**
-* 🛡️ **7 learning tracks**
-* 🧠 Short explanations + knowledge checks
-* 🗺️ Duolingo-style learning path
-* ⭐ XP and ranks
-* 🔥 Learning streaks
-* ❤️ Hearts system
-* 🎨 Dark and light themes
-* 📊 Animated progress tracking
-* 🎉 Confetti for first correct answers
-* 💾 Local progress saving
-* 🔒 No sign-in or account required
-* 🌐 No network calls or telemetry
-* 🚫 No advertisements
-* 📦 Zero third-party Python dependencies
-* 🐍 Built entirely with the Python standard library
+* **157 bite-sized lessons**
+*  **7 learning tracks**
+* Short explanations + knowledge checks
+* Duolingo-style learning path
+* XP and ranks
+* Learning streaks
+* Hearts system
+* Dark and light themes
+* Animated progress tracking
+* Confetti for first correct answers
+* Local progress saving
+* No sign-in or account required
+* No network calls or telemetry
+* No advertisements
+* Zero third-party Python dependencies
+* Built entirely with the Python standard library
 
 ---
 
-## 📚 Learning Tracks
+## Learning Tracks
 
 CyberLearn currently contains seven tracks:
 
 | Track                  | Focus                                                   |
 | ---------------------- | ------------------------------------------------------- |
-| 🌐 Networking          | Networking and core network concepts                    |
-| 🔵 Blue Team           | Defensive security and security operations              |
-| 🔴 Red Team            | Offensive-security concepts and methodology             |
-| ⚪ White Hat            | Ethical hacking, authorization, and responsible testing |
-| ⚫ Black Hat            | Threats, malicious activity, and attacker concepts      |
-| 🧠 Awareness           | Security awareness and safe computing                   |
-| 🐍 Python Programming  | Python fundamentals and programming concepts            |
-| 🛠️ Tools of the Trade | Security tools and their purposes                       |
+|  Networking          | Networking and core network concepts                    |
+|  Blue Team           | Defensive security and security operations              |
+|  Red Team            | Offensive-security concepts and methodology             |
+|  White Hat            | Ethical hacking, authorization, and responsible testing |
+|  Black Hat            | Threats, malicious activity, and attacker concepts      |
+|  Awareness           | Security awareness and safe computing                   |
+|  Python Programming  | Python fundamentals and programming concepts            |
+|  Tools of the Trade | Security tools and their purposes                       |
 
 Each track is divided into chapters and individual lessons.
 
@@ -59,17 +59,17 @@ Each lesson is designed to take roughly **one minute** to read.
 
 A typical lesson contains:
 
-1. 📖 A short explanation
-2. ❓ A knowledge-check question
-3. ✅ Immediate feedback
-4. ⭐ XP progression
-5. 📈 Progress toward the next lesson
+1.  A short explanation
+2.  A knowledge-check question
+3.  Immediate feedback
+4.  XP progression
+5.  Progress toward the next lesson
 
 Lessons unlock sequentially within their tracks, giving you a clear next step while still allowing you to choose which track to study.
 
 ---
 
-## 🔐 Privacy by Design
+##  Privacy by Design
 
 CyberLearn is designed to run entirely on your own computer.
 
@@ -124,7 +124,7 @@ That's it.
 
 ---
 
-## 🐧 Kali Linux / Debian / Ubuntu
+##  Kali Linux / Debian / Ubuntu
 
 If Tkinter isn't installed:
 
@@ -150,7 +150,7 @@ python3 main.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 cyberlearn/
@@ -168,7 +168,7 @@ cyberlearn/
 
 ---
 
-## 🧪 Testing
+## Testing
 
 CyberLearn includes automated tests for lesson content.
 
@@ -190,7 +190,7 @@ This helps prevent malformed lessons from silently breaking the application.
 
 ---
 
-## ➕ Adding a Lesson
+##  Adding a Lesson
 
 Adding a lesson is intentionally simple.
 
@@ -218,7 +218,7 @@ python -m unittest test_content.py -v
 
 ---
 
-## 🆕 Adding a Track
+##  Adding a Track
 
 To create a new learning track:
 
@@ -230,7 +230,7 @@ To create a new learning track:
 
 ---
 
-## 🛡️ Educational Scope & Safety
+## Educational Scope & Safety
 
 CyberLearn is intended for **defensive cybersecurity education and conceptual learning**.
 
@@ -252,7 +252,7 @@ The goal is to provide a foundation comparable to introductory cybersecurity and
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -277,7 +277,7 @@ Please keep educational content accurate, clear, concise, and appropriate for th
 
 ---
 
-## 🐛 Bug Reports
+## Bug Reports
 
 If you find a normal bug, please open a GitHub issue and include:
 
@@ -292,7 +292,7 @@ Please **do not publicly post sensitive information or security vulnerabilities*
 
 ---
 
-## 🔒 Security
+## Security
 
 If you discover a potential security vulnerability in CyberLearn, please **do not disclose it publicly in a GitHub issue**.
 
@@ -300,7 +300,7 @@ Please follow the instructions in [`SECURITY.md`](SECURITY.md).
 
 ---
 
-## 📜 License
+## License
 
 CyberLearn is released under the **MIT License**.
 
@@ -308,7 +308,7 @@ See [`LICENSE`](LICENSE) for the complete license text.
 
 ---
 
-## 🌱 Project Goals
+## Project Goals
 
 CyberLearn is built around a simple idea:
 
@@ -316,11 +316,11 @@ CyberLearn is built around a simple idea:
 
 The current curriculum is a starting point. Contributions can help expand the number of lessons, improve explanations, add new learning tracks, and make the learning experience better for everyone.
 
-If you find CyberLearn useful, consider ⭐ starring the repository and contributing a lesson or improvement.
+If you find CyberLearn useful, consider  starring the repository and contributing a lesson or improvement.
 
 ---
 
-## ⭐ Acknowledgments
+##  Acknowledgments
 
 Built with:
 

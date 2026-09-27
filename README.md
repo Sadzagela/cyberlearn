@@ -52,7 +52,7 @@ Each track is divided into chapters and individual lessons.
 
 ---
 
-## 🎮 How Learning Works
+##  How Learning Works
 
 Each lesson is designed to take roughly **one minute** to read.
 
@@ -97,7 +97,7 @@ There are also **no third-party runtime dependencies**. The application uses Pyt
 
 ---
 
-## 🖥️ Installation
+## Installation
 
 ### Requirements
 
